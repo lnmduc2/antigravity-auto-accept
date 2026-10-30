@@ -1,0 +1,12 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
+
+# Local artifacts (backups are created inside the IDE install folder, never here)
+*.log
+*.bak
